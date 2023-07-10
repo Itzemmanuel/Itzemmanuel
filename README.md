@@ -68,4 +68,5 @@
 <br clear="both">
 
 ###
-![snake gif](https://github.com/itzemmanuel/itzemmanuel/blob/output/github-contribution-grid-snake.gif)
+![snake gif]
+(https://github.com/Itzemmanuel/Itzemmanuel/blob/output/github-contribution-grid-snake.gif)
