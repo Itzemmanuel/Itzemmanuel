@@ -68,4 +68,4 @@
 <br clear="both">
 
 ###
-![snake gif](https://github.com/Itzemmanuel/Itzemmanuel/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/Itzemmanuel/Itzemmanuel/output/github-contribution-grid-snake.svg" />
