@@ -33,9 +33,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itzemmanuel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="250" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Itzemmanuel&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="250" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Itzemmanuel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Itzemmanuel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="170" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Itzemmanuel&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="160" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Itzemmanuel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="115" alt="languages graph"  />
 </div>
 
 ###
