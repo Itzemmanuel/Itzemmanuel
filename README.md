@@ -105,3 +105,5 @@
 <br clear="both">
 
 ###
+
+<img src="https://github.com/Itzemmanuel/Itzemmanuel/blob/output/snake.svg" alt="Snake animation" />
