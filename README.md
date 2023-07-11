@@ -57,6 +57,9 @@
   <a href="Itzemmanuelofficial@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="100" height="50" alt="gmail logo"  />
   </a>
+  <a href="https://codepen.io/Itzemmanuel" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="100" height="50" alt="codepen logo"  />
+  </a>
 </div>
 
 ###
