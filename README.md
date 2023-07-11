@@ -1,6 +1,11 @@
 <h2 align="center">Hi 👋! My name is Emmanuel Phanuel and I'm a Front-End Developer from South Sudan</h2>
 
-###
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=Itzemmanuel&icon=8&color=9)](https://visitcount.itsvg.in)
+
+</div>
+
 
 <br clear="both">
 
@@ -9,9 +14,11 @@
 </div>
 
 # 💫 About Me:
+
 🔭 I’m currently working on BMG(Be My Guest) an airbnb clone, ShoeCenter, TechPlanet and other projects.<br>🌱 I’m currently learning Back-End Frameworks & Mobile App Development.<br>📫 How to reach me Itzemmanuelofficial@gmail.com<br>👨‍💻 All of my projects are available at .........
 
-###
+
+# 💻 Tech Stack:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -39,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-###
+# 📊 GitHub Stats:
 
 <br clear="both">
 
@@ -57,18 +64,18 @@
   <a href="https://Discord.com/itzemmanuel" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="100" height="50" alt="discord logo"  />
   </a>
-  <a href="Itzemmanuelofficial@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="100" height="50" alt="gmail logo"  />
-  </a>
   <a href="https://codepen.io/Itzemmanuel" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="100" height="50" alt="codepen logo"  />
   </a>
 </div>
 
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Itzemmanuel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Itzemmanuel/Itzemmanuel/output/snake.svg" alt="Snake animation" />
 
 ###
