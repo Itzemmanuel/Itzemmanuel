@@ -106,7 +106,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/itzemmanuel/itzemmanuel/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Itzemmanuel/Itzemmanuel/output/snake.svg" alt="Snake animation" />
 
 ###
 
