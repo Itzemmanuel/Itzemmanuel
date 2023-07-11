@@ -20,7 +20,12 @@
 
 <br clear="both">
 
-🔭 I’m currently working on BMG(Be My Guest) an airbnb clone, ShoeCenter, TechPlanet and other projects.<br>🌱 I’m currently learning Back-End Frameworks & Mobile App Development.<br>📫 How to reach me Itzemmanuelofficial@gmail.com<br>👨‍💻 All of my projects are available at .........
+🔭 I’m currently working on BMG(Be My Guest) an airbnb clone, ShoeCenter, TechPlanet and other projects.
+<br><br>
+🌱 I’m currently learning Back-End Frameworks & Mobile App Development.<br><br>
+📫 How to reach me Itzemmanuelofficial@gmail.com
+<br><br>
+👨‍💻 All of my projects are available at .........
 
 <br clear="both">
 
