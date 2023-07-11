@@ -17,11 +17,15 @@
 
 # 💫 About Me:
 
+<br clear="both">
+
 🔭 I’m currently working on BMG(Be My Guest) an airbnb clone, ShoeCenter, TechPlanet and other projects.<br>🌱 I’m currently learning Back-End Frameworks & Mobile App Development.<br>📫 How to reach me Itzemmanuelofficial@gmail.com<br>👨‍💻 All of my projects are available at .........
 
 <br clear="both">
 
 ## 🌐 Socials:
+
+<br clear="both">
 
 <div align="center">
   <a href="https://Instagram.com/Itzemmanuel__" target="_blank">
@@ -34,6 +38,8 @@
 <br clear="both">
 
 # 💻 Tech Stack:
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -67,19 +73,32 @@
 
 # 📊 GitHub Stats:
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itzemmanuel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="170" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Itzemmanuel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="170" alt="stats graph" />
+  
+<br clear="both">
+
+<br clear="both">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Itzemmanuel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="115" alt="languages graph"  />
 </div>
 
 <br clear="both">
 
 ## 🏆 GitHub Trophies
+
+<br clear="both">
+
 ![](https://github-profile-trophy.vercel.app/?username=Itzemmanuel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 <br clear="both">
 
 ### ✍️ Random Dev Quote
+
+<br clear="both">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br clear="both">
