@@ -97,15 +97,23 @@
 
 <br clear="both">
 
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=Itzemmanuel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-<br clear="both">
-
-### ✍️ Random Dev Quote
+</div>
 
 <br clear="both">
 
+## ✍️ Random Dev Quote
+
+<br clear="both">
+
+<div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 <br clear="both">
 
