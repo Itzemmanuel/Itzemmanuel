@@ -1,4 +1,4 @@
-<h2 align="center">Hello👋! My name is Emmanuel Phanuel and I'm a Front-End Developer from South Sudan</h2>
+<h2 align="center">Hello👋! My name is Emmanuel Phanuel <br clear="both"> I'm a Front-End Developer from South Sudan</h2>
 
 <div align="center">
 
