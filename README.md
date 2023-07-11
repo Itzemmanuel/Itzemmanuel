@@ -1,4 +1,4 @@
-<h2 align="center">Hello👋! My name is Emmanuel Phanuel and I'm a Front-End Developer from South Sudan</h2>
+<h2 align="center">Hi 👋! My name is Emmanuel Phanuel and I'm a Front-End Developer from South Sudan</h2>
 
 ###
 
@@ -42,7 +42,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Itzemmanuel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="170" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Itzemmanuel&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="160" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Itzemmanuel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="115" alt="languages graph"  />
 </div>
 
@@ -58,14 +57,12 @@
   <a href="Itzemmanuelofficial@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="100" height="50" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/itzemmanuel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="50" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/Itzemmanuel/Itzemmanuel/output/snake.svg" alt="Snake animation" />
+
 ###
-<img src="https://raw.githubusercontent.com/Itzemmanuel/Itzemmanuel/output/github-contribution-grid-snake.svg" />
