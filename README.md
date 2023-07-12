@@ -36,9 +36,6 @@
 <div align="center">
   <a href="https://Instagram.com/Itzemmanuel__" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="50" alt="instagram logo"  />
-  <a href="https://codepen.io/Itzemmanuel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="100" height="50" alt="codepen logo"  />
-  </a>
 </div>
 
 <br clear="both">
