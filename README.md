@@ -25,7 +25,7 @@
 🌱 I’m currently learning Back-End Frameworks & Mobile App Development.<br><br>
 📫 How to reach me Itzemmanuelofficial@gmail.com
 <br><br>
-👨‍💻 All of my projects are available at emmanuelphanuel.vercel.app
+👨‍💻 All of my projects are available at <a href="https://emmanuelphanuel.vercel.app" target="_blank"> My Portfolio </a>
 
 <br clear="both">
 
